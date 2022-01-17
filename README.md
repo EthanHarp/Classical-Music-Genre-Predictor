@@ -31,4 +31,4 @@ Deployment – How do stakeholders access the results?
 
 Final Thoughts
 
-    The need for a project like this is auto classification of songs due to the sheer volume of songs. 
+    The need for a project like this is auto classification of songs due to the sheer volume of songs. Some challenges during this figuring out how to deal with missing data for this dataset. Another challenge was figuring out how to improve the accuracy of models after initially setting them up. I was able to learn a lot about Data Science throughout this project. One way was learning various techniques I had never used before like imputation, table joins for enumeration, and general dataset manipulation. If I had more time and took some next steps with this project would be researching more about model parameters to try and increase the accuracy. The next evolution of this project would be having it predict all genres.
