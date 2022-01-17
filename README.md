@@ -24,3 +24,11 @@ Evaluation – Which model best meets the business objectives?
 Deployment – How do stakeholders access the results?
 
     This notebook, the results, and the model will be posted on GitHub. After completing this project, I am happy with the amount of cleaning data that I was able to accomplish. One thing I would want to improve in the future is adapt this problem to be multinomial and detect all genres.
+
+
+
+
+
+Final Thoughts
+
+    The need for a project like this is auto classification of songs due to the sheer volume of songs. 
