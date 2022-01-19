@@ -1,5 +1,5 @@
 music_genre,genre_index,genre_orig
-Rock,1.0,1.0
+Rock,0.0,1.0
 Electronic,0.0,2.0
 Anime,0.0,3.0
 Jazz,0.0,4.0
@@ -7,5 +7,5 @@ Alternative,0.0,5.0
 Country,0.0,6.0
 Rap,0.0,7.0
 Blues,0.0,8.0
-Classical,0.0,9.0
+Classical,1.0,9.0
 Hip-Hop,0.0,10.0

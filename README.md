@@ -2,8 +2,7 @@ CRISP-DM Framework
 
 Business understanding – What does the business need?
 
-    One business such as Spotify that hosts millions of songs needs a way to automatically sort songs by genre. Also, a rock music magazine would want a way
-    to automatically find new songs in the genre in order to review them.
+    One business such as Spotify that hosts millions of songs needs a way to automatically sort songs by genre. Also, a classical music magazine would want a way to automatically find new songs in the genre in order to review them.
 
 Data understanding – What data do we have / need? Is it clean?
 
